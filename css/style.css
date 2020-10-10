@@ -1,5 +1,5 @@
 body {
-  background-color: aqua;
+  background-color: bisque;
 }
 
 h1 {
@@ -7,3 +7,13 @@ h1 {
   font-size: large;
   font-weight: bold;
 }
+
+p {
+  padding: 10px;
+}
+
+#first-paragraph {
+  background-color: blue;
+  color: aliceblue
+}
+
